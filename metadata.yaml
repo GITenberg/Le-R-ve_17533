@@ -20,6 +20,8 @@ description: "Le rêve (The Dream) is the sixteenth novel in the Rougon-Macquart
   \ 1888 and translated into English by Eliza E. Chase as The Dream in 1893 (reprinted\
   \ in 2005). Other recent translations are by Michael Glencross (Peter Owen 2005)\
   \ and Andrew Brown (Hesperus Press 2005).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17533#Le-R-ve
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
